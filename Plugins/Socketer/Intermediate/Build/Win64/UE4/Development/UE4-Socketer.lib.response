@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\MediocreMapAssistant2\Plugins\Socketer\Intermediate\Build\Win64\UE4\Development\Socketer\Module.Socketer.cpp.obj"
+"D:\MediocreMapAssistant2\Plugins\Socketer\Intermediate\Build\Win64\UE4\Development\Socketer\Module.Socketer.gen.cpp.obj"
+"D:\MediocreMapAssistant2\Intermediate\Build\Win64\UE4\Development\Socketer\PCLaunch.rc.res"
+/OUT:"D:\MediocreMapAssistant2\Plugins\Socketer\Binaries\Win64\UE4-Socketer.lib"
